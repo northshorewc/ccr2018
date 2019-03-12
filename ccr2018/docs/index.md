@@ -1,20 +1,20 @@
 ---
 Author: Eric Kiefer
-Date: 3/12/2018
+Date: 3/12/2019
 ---
 
-<a href="http://www.northshorewater.org/CCR2017.pdf" download>Click here to download PDF version</a>
+<!-- <a href="http://www.northshorewater.org/CCR2017.pdf" download>Click here to download PDF version</a> -->
 
-* * *
+<!-- * * * -->
 
 ![nswc-logo](img/nswc-logo-long.png)
 
 * * *
 
-# 2017 Annual Water Quality Report
+# 2018 Annual Water Quality Report
 
 <!-- The following text is for the newspaper publication only. -->
-<!-- This report is available upon request to the public. For a paper copy, please contact your water utility or call (414) 963-0160. In addition to being published in this paper, the URL of the 2017 Annual Water Quality Report will be distributed by mail to water customers within the Village of Fox Point, City of Glendale, and Village of Whitefish Bay. -->
+<!-- This report is available upon request to the public. For a paper copy, please contact your water utility or call (414) 963-0160. In addition to being published in this paper, the URL of the 2018 Annual Water Quality Report will be distributed by mail to water customers within the Village of Fox Point, City of Glendale, and Village of Whitefish Bay. -->
 
 The North Shore Water Commission, in cooperation with its member utilities, publishes a water quality report annually. The report is designed so you can clearly understand what’s in your drinking water and how to obtain additional information. Thank you for being a valued customer!
 
@@ -30,10 +30,10 @@ The North Shore Water Commission (NSWC) operates and maintains the Water Filtrat
 
 Each water utility is responsible for connecting customers to the water system, metering water use, billing, and responding to distribution problems such as main breaks. You can find out who your water utility is by checking your water bill. If you experience a water-related problem or have questions about your water bill, please contact your water utility for assistance.
 
-[Fox Point Water Utility](http://www.villageoffoxpoint.com/)| [Glendale Water Utility](http://www.glendale-wi.org)| [Whitefish Bay Water Utility](http://www.wfbvillage.org)
-:----------------------------------------------------------:|:-----------------------------------------------------:|:--------------------------------------------------------:
-![Fox Point Logo](img/fox-point-logo-150.png)  | ![Glendale Logo](img/glendale-logo-150.png)  | ![Whitefish Bay Logo](img/wfb-logo-150-250.png)
-(414) 351-8900 | (414) 228-1719 | (414) 962-6690
+| [Fox Point Water Utility](http://www.villageoffoxpoint.com/) | [Glendale Water Utility](http://www.glendale-wi.org) | [Whitefish Bay Water Utility](http://www.wfbvillage.org) |
+|:------------------------------------------------------------:|:----------------------------------------------------:|:--------------------------------------------------------:|
+|        ![Fox Point Logo](img/fox-point-logo-150.png)         |     ![Glendale Logo](img/glendale-logo-150.png)      |     ![Whitefish Bay Logo](img/wfb-logo-150-250.png)      |
+|                        (414) 351-8900                        |                    (414) 228-1719                    |                      (414) 962-6690                      |
 
 * * *
 
@@ -61,23 +61,25 @@ For additional information about water quality on the internet, please visit WDN
 
 ## Abbreviations and Definitions
 
-Term | Abbreviation | Definition
------|--------------|-----------
-Action Level | AL |  The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.
-Disinfection By-products | DBPs | These are compounds that are formed when using a disinfectant.
-| EPA | The United States Environmental Protection Agency
-Haloacetic Acids | HAA5 | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, and dibromoacetic acid. This is a class of disinfection by-products.
-Locational Running Annual Average | LRAA | The average of four quarterly samples collected in one 12-month period at a specific sampling site.
-Maximum Contaminant Level | MCL |  This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.
-Maximum Contaminant Level Goal | MCLG |  This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.
-Milligrams Per Liter | mg/L | One milligram per liter corresponds to one minute in two years or a single penny in $10,000. Milligrams per liter is equivalent to the term parts per million (ppm).
-Micrograms Per Liter | ug/l |  One part per billion corresponds to one minute in 2,000 years, or a single penny in $10,000,000. Micrograms per liter is equivalent to the term parts per billion (ppb).
-Nephelometric Turbidity Unit | NTU |  Nephelometric turbidity unit is a measure of the clarity of water. Turbidity in excess of 5 NTU is just noticeable to the average person.
-| NSWC | North Shore Water Commission
-Not Applicable | NA | Not applicable.
-Not Detected | ND |  Laboratory analysis indicates that the constituent is not present. In other words, the analyte was below the detection limit.
-Trihalomethanes | TTHM | Chloroform, bromodichloromethane, dibromochloromethane, and bromoform. This is a class of disinfection by-products.
-| WDNR | Wisconsin Department of Natural Resources
+| Term                              | Abbreviation                                      | Definition                                                                                                                                                                                                                                                    |
+|:----------------------------------|:--------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Action Level                      | AL                                                | The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.                                                                                                                             |
+| Disinfection By-products          | DBPs                                              | These are compounds that are formed when using a disinfectant.                                                                                                                                                                                                |
+| EPA                               | The United States Environmental Protection Agency |                                                                                                                                                                                                                                                               |
+| Haloacetic Acids Group HAA5       | HAA5                                              | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, and dibromoacetic acid. This is a class of disinfection by-products.                                                                                                  |
+| Haloacetic Acids Group HAA6Br     | HAA6Br                                            | Monobromoacetic acid, dibromoacetic acid, bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, and tribromoacetic acid. This is a class of disinfection by-products.                                                                   |
+| Haloacetic Acids Group HAA9       | HAA9                                              | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, dibromoacetic acid, bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, and tribromoacetic acid. This is a class of disinfection by-products. |
+| Locational Running Annual Average | LRAA                                              | The average of four quarterly samples collected in one 12-month period at a specific sampling site.                                                                                                                                                           |
+| Maximum Contaminant Level         | MCL                                               | This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.                                                                                   |
+| Maximum Contaminant Level Goal    | MCLG                                              | This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.                                                                                                            |
+| Milligrams Per Liter              | mg/L                                              | One milligram per liter corresponds to one minute in two years or a single penny in $10,000. Milligrams per liter is equivalent to the term parts per million (ppm).                                                                                          |
+| Micrograms Per Liter              | ug/l                                              | One part per billion corresponds to one minute in 2,000 years, or a single penny in $10,000,000. Micrograms per liter is equivalent to the term parts per billion (ppb).                                                                                      |
+| Nephelometric Turbidity Unit      | NTU                                               | Nephelometric turbidity unit is a measure of the clarity of water. Turbidity in excess of 5 NTU is just noticeable to the average person.                                                                                                                     |
+| NSWC                              | North Shore Water Commission                      |                                                                                                                                                                                                                                                               |
+| Not Applicable                    | NA                                                | Not applicable.                                                                                                                                                                                                                                               |
+| Not Detected                      | ND                                                | Laboratory analysis indicates that the constituent is not present. In other words, the analyte was below the detection limit.                                                                                                                                 |
+| Trihalomethanes                   | TTHM                                              | Chloroform, bromodichloromethane, dibromochloromethane, and bromoform. This is a class of disinfection by-products.                                                                                                                                           |
+| WDNR                              | Wisconsin Department of Natural Resources         |                                                                                                                                                                                                                                                               |
 
 * * *
 
@@ -85,13 +87,13 @@ Trihalomethanes | TTHM | Chloroform, bromodichloromethane, dibromochloromethane,
 
 Cryptosporidium is a microscopic protozoan that, when ingested, can result in diarrhea, fever, and other gastrointestinal symptoms. The organism is found in many surface water sources (lakes, rivers, streams) and comes from human and animal wastes in the watershed. The NSWC uses an effective treatment process that is designed to remove and inactivate this pathogen.
 
-Cryptosporidium is being monitored in the raw water in compliance with the Long Term 2 Enhanced Surface Water Treatment Rule. In 2017, **no cryptosporidium was detected**.
+Cryptosporidium is being monitored in the raw water in compliance with the Long Term 2 Enhanced Surface Water Treatment Rule. In 2018, **no cryptosporidium was detected**.
 
 * * *
 
 ## Turbidity
 
-In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for turbidity because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was 0.15 NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.
+In accordance with s. NR 810.29, Wisconsin Administrative Code, the treated surface water is monitored for turbidity to confirm that the filtered water is less than 0.30 NTU. Turbidity is a measure of the cloudiness of water. We monitor for turbidity because it is a good indicator of the effectiveness of our filtration system. During the year, the highest single entry point turbidity measurement was 0.17 NTU. The lowest monthly percentage of samples meeting the turbidity limits was 100 percent.
 
 * * *
 
@@ -104,35 +106,37 @@ Please note that the term "level found" is used throughout this report. The mean
 
 * * *
 
-### Monitoring Results Pertaining to the North Shore Water Commission
+### Monitoring Results Pertaining to the North Shore Water Commission (PWS# 24135155)
 
-The NSWC and its member utilities work together to ensure the water it delivers meets or exceeds all standards set forth by its regulatory agencies. The following sections show the contaminants that were detected by the NSWC in its monitoring.  Please note that we did not test for radon during 2017 because we were not required to.
+The NSWC and its member utilities work together to ensure the water it delivers meets or exceeds all standards set forth by its regulatory agencies. The following sections show the contaminants that were detected by the NSWC in its monitoring. Please note that we did not test for radon during 2018 because we were not required to.
 
 *Inorganic*
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:---------------------------------:|:----------------------------------------:|:-----------:|:------:|-------------------------
-Antimony | 6 ug/L | 6 ug/L | 0.18 ug/L | <span style="font-size:150%">&#9786;</span> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder
-Barium | 2 mg/L | 2 mg/L | 0.019 mg/L |  <span style="font-size:150%">&#9786;</span> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits
-Cyanide (4/21/2014) | 200 ug/L | 200 ug/L | 10 ug/L | <span style="font-size:150%">&#9786;</span> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories
-[^1] Fluoride | 4 mg/L | 4 mg/L | 0.75 mg/L </br> (0.69 - 0.79) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories
-Nickel | 100 ug/L | 100 ug/L | 0.67 ug/L | <span style="font-size:150%">&#9786;</span> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products
-Nitrate (NO3-N) | 10 mg/L | 10 mg/L | 0.36 mg/L | <span style="font-size:150%">&#9786;</span> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits
-Sodium | NA | NA | 11 mg/L | <span style="font-size:150%">&#9786;</span> | NA
+| Substance           | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                                                                                                                 |
+|:--------------------|:----------------------------------------:|:----------------------------------------------:|:-----------------------------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------|
+| Antimony            |                  6 ug/L                  |                     6 ug/L                     |           0.14 ug/L           | <span style="font-size:150%">&#9786;</span> | Discharge from petroleum refineries; fire retardants; ceramics; electronics; solder                                                      |
+| Barium              |                  2 mg/L                  |                     2 mg/L                     |          0.020 mg/L           | <span style="font-size:150%">&#9786;</span> | Discharge of drilling wastes; discharge from metal refineries; erosion of natural deposits                                               |
+| Cyanide (4/21/2014) |                 200 ug/L                 |                    200 ug/L                    |            10 ug/L            | <span style="font-size:150%">&#9786;</span> | Discharge from steel/metal factories; discharge from plastic and fertilizer factories                                                    |
+| [^1] Fluoride       |                  4 mg/L                  |                     4 mg/L                     | 0.74 mg/L </br> (0.64 - 0.83) | <span style="font-size:150%">&#9786;</span> | Erosion of natural deposits; Water additive which promotes strong teeth; discharge from fertilizer and aluminum factories                |
+| Nickel              |                 100 ug/L                 |                    100 ug/L                    |           0.75 ug/L           | <span style="font-size:150%">&#9786;</span> | Nickel occurs naturally in soils, groundwater and surface waters and is often used in electroplating, stainless steel and alloy products |
+| Nitrate (NO3-N)     |                 10 mg/L                  |                    10 mg/L                     |           0.38 mg/L           | <span style="font-size:150%">&#9786;</span> | Runoff from fertilizer use; Leaching from septic tanks, sewage; erosion of natural deposits                                              |
+| Sodium              |                    NA                    |                       NA                       |            11 mg/L            | <span style="font-size:150%">&#9786;</span> | NA                                                                                                                                       |
 
 
 *Lead and Copper*
 
-The NSWC is responsible for lead and copper monitoring. To comply with this regulation, the NSWC works with its member water utilities and the WDNR to determine where and how samples are collected. The monitoring results listed in this section are from water samples collected in homes that have a lead service or copper plumbing with lead soldered joints in Fox Point, Glendale, and Whitefish Bay.
+In 2018, the NSWC was responsible for lead and copper monitoring. To comply with this regulation, the NSWC worked with its member water utilities and the WDNR to determine where to collect samples and how to collect them. The monitoring results listed in this section are from water samples collected in homes that was confirmed to have a lead service in Fox Point, Glendale, and Whitefish Bay. During this sampling event, 10 were from Fox Point, 11 from Glendale, and 71 from Whitefish Bay.
+
+Going forward, Fox Point, Glendale, and Whitefish Bay will be regulated separately, and the North Shore Water Commission will no longer be responsible for lead and copper monitoring.
 
 Please note that lead and copper do not have a maximum contaminant level. Instead they have an action level (AL). To determine compliance with the Lead and Copper Rule, all results collected from monitoring event are arranged lowest to highest and the 90th percentile value is determined. If the 90th percentile value is at or below the AL, no additional action is required[^2].
 
-Please note that "level found" in this section is the 90th percentile value from the latest monitoring event[^3]. Of the 30 samples collected, none of them exceeded the action level.
+Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. Of the 92 samples collected, 6 of them exceeded the action level.
 
-Substance | MCLG |  AL | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-Copper (2015) | 1.3 mg/L | 1.3 mg/L | 0.048 mg/L </br> <sub>(0.0034 mg/L to 0.110 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives
-Lead (2015) | 0 | 15 ug/L | 9.1 ug/L </br> <sub> (ND to 15 ug/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.
+| Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
+|:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
+| Copper    | 1.3 mg/L | 1.3 mg/L | 0.045 mg/L </br> <sub>(0.001 mg/L to 0.120 mg/L)</sub> | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits; leach from wood preservatives |
+| Lead      |    0     | 15 ug/L  |       9.5 ug/L </br> <sub> (ND to 66 ug/L)</sub>       | <span style="font-size:150%">&#9786;</span> | Corrosion of household plumbing systems; erosion of natural deposits.                               |
 
 To reduce the amount of lead that can transfer from lead-bearing fixtures and pipes to the water, the NSWC feeds a corrosion inhibitor that contains phosphate. The addition of phosphate has been determined by the EPA and WNDR to be the best available treatment process for controlling lead in the distribution system.
 
@@ -140,36 +144,29 @@ To reduce the amount of lead that can transfer from lead-bearing fixtures and pi
 
 Unregulated contaminants are those for which EPA has not established drinking water standards. The purpose of unregulated contaminant monitoring is to assist EPA in determining the occurrence of unregulated contaminants in drinking water and whether future regulation is warranted. EPA required us to participate in this monitoring.
 
-Substance | MCLG | MCL | Level Found | Status
-----------|:----:|:---:|:-----------:|:------
-Sulfate | NA | NA | 26 mg/L | <span style="font-size:150%">&#9786;</span>
+| Substance | MCLG | MCL | Level Found | Status                                      |
+|:----------|:----:|:---:|:-----------:|:--------------------------------------------|
+| Sulfate   |  NA  | NA  |   26 mg/L   | <span style="font-size:150%">&#9786;</span> |
 
 
 **Other Monitoring Results**
 
 The NSWC was required to monitor for disinfection by-products in the past. Due to a change in monitoring responsibilities, these contaminants are now monitored by each member utility.
 
-*Disinfection By-Products*
+[^3] *Unregulated Volatile Organic Carbons*
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:--------:|:--------:|:-----------:|:------:|-------------------------
-HAA5 (9/17/2013) | 60 ug/L | 60 ug/L | 12.7 ug/L </br> (6.5 - 12.7) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-TTHM (9/17/2013) | 0 | 80 ug/L | 25.2 ug/L </br>(11.9 - 25.2) |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-
-[^4] *Unregulated Volatile Organic Carbons*
-
-Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-Bromodichloro- methane (2014) | NA | NA | 6.2 ug/L | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-Bromoform (2014) | NA | NA | 0.4 ug/L | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-Chloroform (2014) | NA | NA | 5.1 ug/L | <span style="font-size:150%">&#9786;</span> |By-product of drinking water chlorination
-Dibromochloro- methane (2014) | NA | NA | 3.8 ug/L | <span style="font-size:150%">&#9786;</span> |By-product of drinking water chlorination
+| Substance                     | MCLG | MCL | Level Found |                   Status                    | Sources of Contamination                  |
+|:------------------------------|:----:|:---:|:-----------:|:-------------------------------------------:|:------------------------------------------|
+| Bromodichloro- methane (2014) |  NA  | NA  |  6.2 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Bromoform (2014)              |  NA  | NA  |  0.4 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Chloroform (2014)             |  NA  | NA  |  5.1 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| Dibromochloro- methane (2014) |  NA  | NA  |  3.8 ug/L   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 * * *
 
 ![Fox Point Logo](img/fox-point-logo-150.png)
 
-### Monitoring Results Pertaining to the Village of Fox Point
+### Monitoring Results Pertaining to the Village of Fox Point (PWS# 24105840)
 
 The following table show the contaminants that were detected by the Village of Fox Point in its monitoring.
 
@@ -177,23 +174,23 @@ The following table show the contaminants that were detected by the Village of F
 
 For monitoring location SSS-9:
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 8 ug/L | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 12.6 ug/L |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |   9 ug/L    | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  |  17.3 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-10:
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 8 ug/L | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 12.1 ug/L |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:-----------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |   9 ug/L    | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  |  17.7 ug/L  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 * * *
 
 ![Glendale Logo](img/glendale-logo-150.png)
 
-### Monitoring Results Pertaining to the City of Glendale
+### Monitoring Results Pertaining to the City of Glendale (PWS# 24101682)
 
 The following table show the contaminants that were detected by the City of Glendale in its monitoring.
 
@@ -203,50 +200,81 @@ Please note that "level found" in this section is the LRAA. This value can inclu
 
 For monitoring location SSS-03:
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 10 ug/L </br> (6 - 16) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 18.5 ug/L </br> (11.8 - 30.8) |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |    11 ug/L </br> (9 - 11)     | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 21.5 ug/L </br> (14.3 - 24.7) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-16:
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 10 ug/L </br> (7 - 13) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 20.5 ug/L </br> (13.9 - 33.8) |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |    11 ug/L </br> (9 - 11)     | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 23.2 ug/L </br> (16.0 - 25.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
-*Unregulated Contaminant Monitoring Rule*
+*Third Unregulated Contaminant Monitoring Rule*
 
-EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Glendale was selected by EPA to conduct this testing in 2013.
+EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. THIS SECTION PERTAINS TO THE THIRD ROUND. These compounds are not regulated (unless noted otherwise), and therefore, have no additional reporting and/or treatment requirements. Glendale was selected by EPA to conduct this testing in 2013.
 
 Please note that "level found" is the average level during the calendar year.
 
-Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-Chlorate (2013) | NA | NA | 123 ug/L (68.0 - 226) | <span style="font-size:150%">&#9786;</span> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
-Chromium-Total (2013) | 100 ug/L | 100 ug/L | 0.37 ug/L (0.24 - 0.46) | <span style="font-size:150%">&#9786;</span> | Sum of chromium in all valence states See chromium-6 for more information.
-Chromium-6 (2013) | NA | NA | 0.18 ug/L (0.10 - 0.24) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
-Molybdenum (2013) | NA | NA | 0.14 ug/L (ND - 1.1) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities
-Strontium (2013) | NA | NA | 118 ug/L (113 - 127) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes
-Vanadium (2013) | NA | NA | 0.23 ug/L (ND - 0.30) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst
+| Substance             |   MCLG   |   MCL    |       Level Found       |                   Status                    | Sources of Contamination                                                                                                                                                           |
+|:----------------------|:--------:|:--------:|:-----------------------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chlorate (2013)       |    NA    |    NA    |  123 ug/L (68.0 - 226)  | <span style="font-size:150%">&#9786;</span> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production                                                                                  |
+| Chromium-Total (2013) | 100 ug/L | 100 ug/L | 0.37 ug/L (0.24 - 0.46) | <span style="font-size:150%">&#9786;</span> | Sum of chromium in all valence states See chromium-6 for more information.                                                                                                         |
+| Chromium-6 (2013)     |    NA    |    NA    | 0.18 ug/L (0.10 - 0.24) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation |
+| Molybdenum (2013)     |    NA    |    NA    |  0.14 ug/L (ND - 1.1)   | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities                 |
+| Strontium (2013)      |    NA    |    NA    |  118 ug/L (113 - 127)   | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes                                                                           |
+| Vanadium (2013)       |    NA    |    NA    |  0.23 ug/L (ND - 0.30)  | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst                                                                                |
 
 The following is a complete list of compounds that were tested under this regulation:
 
-> <sub>1,2,3-trichloropropane, 1,1-dichloroethane, 1,3-butadiene, 1,4-dioxane, bromochloromethane (Halon 1011), bromomethane, chlorate, chlorodifluoromethane (HCFC-22), chloromethane, chromium, chromium-6, cobalt, molybdenum, perfluorobutanesulfonic acid (PFBS), perfluoroctanoic acid (PFOA), perfluoroheptanoic acid (PFHpA), perfluorohexanesulfonic acid (PFHxS), perfluorononanoic acid (PFNA), perfluorooctanesulfonic acid (PFOS), strontium, vanadium</sub>
+> <sub>1,2,3-trichloropropane, 1,1-dichloroethane, 1,3-butadiene, 1,4-dioxane, bromochloromethane (Halon 1011), bromomethane, chlorate, chlorodifluoromethane (HCFC-22), chloromethane, chromium, chromium-6, cobalt, molybdenum, perfluorobutanesulfonic acid (PFBS), perfluoroctanoic acid (PFOA), perfluoroheptanoic acid (PFHpA), perfluorohexanesulfonic acid (PFHxS), perfluorononanoic acid (PFNA), perfluorooctanesulfonic acid (PFOS), strontium, vanadium.</sub>
+
+*Fourth Unregulated Contaminant Monitoring Rule*
+
+EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. THIS SECTION PERTAINS TO THE FOURTH ROUND. These compounds are not regulated (unless noted otherwise), and therefore, have no additional reporting and/or treatment requirements. Glendale was selected by EPA to conduct this testing in 2018 and 2019.
+
+Please note that "level found" is the average level during the calendar year.
+
+| Substance                   | MCLG | MCL |       Level Found       |                   Status                    | Additional Information                                                                                                                                                                                                     |
+|:----------------------------|:----:|:---:|:-----------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manganese </br> entry point |  NA  | NA  | 1.14 ug/L (0.48 - 2.00) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
+
+For monitoring location SSS-03:
+
+| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L | 10.21 ug/L (6.43 - 13.99)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  7.47 ug/L  (7.23 - 7.71)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 16.02 ug/L (13.23 - 18.81) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+
+For monitoring location SSS-16:
+
+| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L | 10.73 ug/L (7.53 - 13.92)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  8.93 ug/L (7.23 - 10.62)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 17.68 ug/L (14.03 - 21.32) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+
+The following is a complete list of compounds that were tested under this regulation:
+
+> <sub>Bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, dibromoacetic acid, dichloroacetic acid, monobromoacetic acid, monochloroacetic acid, tribromoacetic acid, trichloroacetic acid, germanium, manganese, alpha-hexachlorocyclohexane, chlorpyrifos, dimethipin, ethoprop, oxyfluorfen, profenofos, tebuconazole, total permethrin (cis & trans), tribufos, 1-butanol, 2-methoxyethanol, 2-propen-1-ol, butylated hydroxyanisole, o-toluidine, quinoline.</sub>
+
 
 *Other Unregulated Contaminants*
 
 Unregulated contaminants are those for which EPA has not established drinking water standards. The purpose of unregulated contaminant monitoring is to assist EPA in determining the occurrence of unregulated contaminants in drinking water and whether future regulation is warranted. EPA required us to participate in this monitoring.
 
-Substance | MCLG | MCL | Level Found | Status
-----------|:----:|:---:|:-----------:|:------
-Bromomethane | NA | NA | 0.73 ug/L | <span style="font-size:150%">&#9786;</span>
+| Substance           | MCLG | MCL | Level Found | Status                                      |
+|:--------------------|:----:|:---:|:-----------:|:--------------------------------------------|
+| Bromomethane (2017) |  NA  | NA  |  0.73 ug/L  | <span style="font-size:150%">&#9786;</span> |
 
 * * *
 
 ![Whitefish Bay Logo](img/wfb-logo-150-250.png)
 
-### Monitoring Results Pertaining to the Village of Whitefish Bay
+### Monitoring Results Pertaining to the Village of Whitefish Bay (PWS# 24105972)
 
 The following table lists the contaminants that were detected by the Village of Whitefish Bay in its monitoring.
 
@@ -256,44 +284,75 @@ Please note that "level found" in this section is the LRAA. This value can inclu
 
 For monitoring location SSS-01:
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 10 ug/L </br> (7 - 14) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 19.7 ug/L </br> (13.3 - 33.9) |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |    11 ug/L </br> (8 - 12)     | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 22.5 ug/L </br> (13.5 - 26.2) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
 For monitoring location SSS-02:
 
-Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-HAA5  | 60 ug/L | 60 ug/L | 9 ug/L </br> (7 - 13) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
-TTHM  | 0 | 80 ug/L | 20.3 ug/L </br> (13.7 - 33.9) |<span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination
+| Substance | &nbsp;&nbsp;&nbsp;MCLG&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;MCL &nbsp;&nbsp;&nbsp; |          Level Found          |                   Status                    | Sources of Contamination                  |
+|:----------|:----------------------------------:|:----------------------------------------:|:-----------------------------:|:-------------------------------------------:|:------------------------------------------|
+| HAA5      |              60 ug/L               |                 60 ug/L                  |    10 ug/L </br> (8 - 10)     | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
+| TTHM      |                 0                  |                 80 ug/L                  | 22.4 ug/L </br> (12.2 - 23.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination |
 
-*Unregulated Contaminant Monitoring Rule*
+*Third Unregulated Contaminant Monitoring Rule*
 
-EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated, and therefore, have no additional reporting and/or treatment requirements. Whitefish Bay was selected to do this monitoring from the summer of 2014 to Spring of 2015.
+EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. These compounds are not regulated (unless noted otherwise), and therefore, have no additional reporting and/or treatment requirements. Whitefish Bay was selected to do this monitoring from the summer of 2014 to Spring of 2015.
 
 Please note that "level found" is the average level during the calendar year.
 
-Substance | MCLG | MCL | Level Found | Status | Sources of Contamination
-----------|:----:|:---:|:-----------:|:------:|-------------------------
-Chlorate (2015) | NA | NA | 84.6 ug/L (81.6 - 86.7) | <span style="font-size:150%">&#9786;</span> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production
-Chromium-Total (2015) | 100 ug/L | 100 ug/L | 0.37 ug/L (0.30 - 0.46) | <span style="font-size:150%">&#9786;</span> | Sum of chromium in all valence states See chromium-6 for more information.
-Chromium-6 (2015) | NA | NA | 0.19 ug/L (0.15 - 0.22) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation
-Molybdenum (2015) | NA | NA | 0.28 ug/L (ND - 1.1) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities
-Strontium (2015) | NA | NA | 125 ug/L (121 - 128) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes
-Vanadium (2015) | NA | NA | 0.12 ug/L (ND - 0.24) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst
+| Substance             |   MCLG   |   MCL    |       Level Found       |                   Status                    | Sources of Contamination                                                                                                                                                           |
+|:----------------------|:--------:|:--------:|:-----------------------:|:-------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Chlorate (2015)       |    NA    |    NA    | 84.6 ug/L (81.6 - 86.7) | <span style="font-size:150%">&#9786;</span> | Agricultural defoliant or desiccant; disinfection by-product; used in chlorine dioxide production                                                                                  |
+| Chromium-Total (2015) | 100 ug/L | 100 ug/L | 0.37 ug/L (0.30 - 0.46) | <span style="font-size:150%">&#9786;</span> | Sum of chromium in all valence states See chromium-6 for more information.                                                                                                         |
+| Chromium-6 (2015)     |    NA    |    NA    | 0.19 ug/L (0.15 - 0.22) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; used in making steel and other alloys; chromium-3 and -6 forms are used for chrome plating, dyes and pigments, leather tanning, and wood preservation |
+| Molybdenum (2015)     |    NA    |    NA    |  0.28 ug/L (ND - 1.1)   | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal found in small amounts in soil and rock. It can also be found in groundwater, either naturally or as the result of industrial activities                 |
+| Strontium (2015)      |    NA    |    NA    |  125 ug/L (121 - 128)   | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; historically, commercial use has been in the faceplate of cathode ray tubes                                                                           |
+| Vanadium (2015)       |    NA    |    NA    |  0.12 ug/L (ND - 0.24)  | <span style="font-size:150%">&#9786;</span> | Naturally-occurring metal; used as vanadium pentoxide which is a chemical intermediate and catalyst                                                                                |
 
 The following is a complete list of compounds that were tested under this regulation:
 
 > <sub>1,2,3-trichloropropane, 1,1-dichloroethane, 1,3-butadiene, 1,4-dioxane, bromochloromethane (Halon 1011), bromomethane, chlorate, chlorodifluoromethane (HCFC-22), chloromethane, chromium, chromium-6, cobalt, molybdenum, perfluorobutanesulfonic acid (PFBS), perfluoroctanoic acid (PFOA), perfluoroheptanoic acid (PFHpA), perfluorohexanesulfonic acid (PFHxS), perfluorononanoic acid (PFNA), perfluorooctanesulfonic acid (PFOS), strontium, vanadium</sub>
 
+*Fourth Unregulated Contaminant Monitoring Rule*
+
+EPA periodically requires water systems to test for unregulated contaminants to better understand their occurrence in drinking water. THIS SECTION PERTAINS TO THE FOURTH ROUND. These compounds are not regulated (unless noted otherwise), and therefore, have no additional reporting and/or treatment requirements. Whitefish Bay was selected by EPA to conduct this testing in 2018 and 2019.
+
+Please note that "level found" is the average level during the calendar year.
+
+| Substance                   | MCLG | MCL |       Level Found       |                   Status                    | Additional Information                                                                                                                                                                                                     |
+|:----------------------------|:----:|:---:|:-----------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manganese </br> entry point |  NA  | NA  | 1.24 ug/L (0.56 - 2.20) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
+
+For monitoring location SSS-01:
+
+| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L |  9.63 ug/L (5.72 - 13.54)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  7.73 ug/L  (5.72 - 9.74)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 16.68 ug/L (11.02 - 22.34) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+
+For monitoring location SSS-02:
+
+| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L |  9.98 ug/L (6.49 - 13.46)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  8.28 ug/L (6.79 - 9.76)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 17.43 ug/L (12.59 - 22.26) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+
+The following is a complete list of compounds that were tested under this regulation:
+
+> <sub>Bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, dibromoacetic acid, dichloroacetic acid, monobromoacetic acid, monochloroacetic acid, tribromoacetic acid, trichloroacetic acid, germanium, manganese, alpha-hexachlorocyclohexane, chlorpyrifos, dimethipin, ethoprop, oxyfluorfen, profenofos, tebuconazole, total permethrin (cis & trans), tribufos, 1-butanol, 2-methoxyethanol, 2-propen-1-ol, butylated hydroxyanisole, o-toluidine, quinoline, total microcystins, microcystin-LA, microcystin-LF, microcystin-LR, microcystin-LY, microcystin-RR, microcystin-YR, nodularin, anatoxin-a, cylindrospermopsin.</sub>
+
+
 *Other Unregulated Contaminants*
 
 Unregulated contaminants are those for which EPA has not established drinking water standards. The purpose of unregulated contaminant monitoring is to assist EPA in determining the occurrence of unregulated contaminants in drinking water and whether future regulation is warranted. EPA required us to participate in this monitoring.
 
-Substance | MCLG | MCL | Level Found | Status
-----------|:----:|:---:|:-----------:|:------
-Naphthalene | NA | NA | 0.28 ug/L | <span style="font-size:150%">&#9786;</span>
+| Substance          | MCLG | MCL | Level Found | Status                                      |
+|:-------------------|:----:|:---:|:-----------:|:--------------------------------------------|
+| Naphthalene (2017) |  NA  | NA  |  0.28 ug/L  | <span style="font-size:150%">&#9786;</span> |
 
 * * *
 
@@ -329,7 +388,7 @@ Drinking water, including bottled water, may reasonably be expected to contain a
 
 ## Lead Information
 
-If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission is responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline or at [http://www.epa.gov/safewater/lead](http://www.epa.gov/safewater/lead).
+If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission and your water utility are responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline or at [http://www.epa.gov/safewater/lead](http://www.epa.gov/safewater/lead).
 
 The North Shore Health Department is another valuable resource. They can provide you with more information about the health effects of lead and how to test for lead in your home. Visit their website at [http://www.nshealthdept.org](http://www.nshealthdept.org) or call (414) 371-2980.
 
@@ -359,29 +418,27 @@ Please note that officers from the member communities rotate positions annually 
 
 ### Fox Point
 
-Office | Office Holder | Email | Phone
--------|---------------|-------|------
-Chair | Scott Botcher | [sbotcher@villageoffoxpoint.com](mailto:sbotcher@villageoffoxpoint.com) | (414) 351-8900
-Alternate | Karen Shapiro | | (414) 351-8900
+| Office       | Office Holder | Email                                                                   | Phone          |
+|:-------------|:--------------|:------------------------------------------------------------------------|:---------------|
+| Member       | Scott Botcher | [sbotcher@villageoffoxpoint.com](mailto:sbotcher@villageoffoxpoint.com) | (414) 351-8900 |
+| Alternate    | Karen Shapiro |                                                                         | (414) 351-8900 |
+| Fiscal Agent | Kelly Meyer   | [KMeyer@villageoffoxpoint.com](mailto:KMeyer@villageoffoxpoint.com)     | (414) 351-8900 |
 
 ### Glendale
 
-Office | Office Holder | Email | Phone
--------|---------------|-------|------
-Secretary | Vacant |  | (414) 228-1746
-Alternate | Rachel Reiss | [R.Reiss@glendale-wi.gov](mailto:R.Reiss@glendale-wi.gov) | (414) 228-1703
+| Office    | Office Holder   | Email                                                           | Phone          |
+|:----------|:----------------|:----------------------------------------------------------------|:---------------|
+| Chair     | Rachel Safstrom | [R.Safstrom@glendale-wi.gov](mailto:R.Safstrom@glendale-wi.gov) | (414) 228-1703 |
+| Alternate | Charlie Imig    | [c.imig@glendale-wi.gov](mailto:c.imig@glendale-wi.gov)         | (414) 228-1710 |
 
 <!-- Fiscal Agent | Linda DiFrances | [L.DiFrances@glendale-wi.gov](mailto:L.DiFrances@glendale-wi.gov) | (414) 228-1701 -->
 
 ### Whitefish Bay
 
-Office | Office Holder | Email | Phone
--------|---------------|-------|------
-Member | John Edlebeck | [j.edlebeck@wfbvillage.org](mailto:j.edlebeck@wfbvillage.org) | (414) 962-6690
-Alternate | Paul Boening | [p.boening@wfbvillage.org](mailto:p.boening@wfbvillage.org) | (414) 962-6690
-Fiscal Agent | Jen Amerell | [j.amerell@wfbvillage.org](mailto:j.amerell@wfbvillage.org) | (414) 962-6690
-
-* * *
+| Office    | Office Holder | Email                                                         | Phone          |
+|:----------|:--------------|:--------------------------------------------------------------|:---------------|
+| Secretary | John Edlebeck | [j.edlebeck@wfbvillage.org](mailto:j.edlebeck@wfbvillage.org) | (414) 962-6690 |
+| Alternate | Paul Boening  | [p.boening@wfbvillage.org](mailto:p.boening@wfbvillage.org)   | (414) 962-6690 |
 
 ## Staff
 
@@ -393,23 +450,21 @@ Eric Kiefer has been the Plant Manager since 2007. He received a Bachelor of Sci
 
 The NSWC is a proud member of the following associations:
 
-Association | Logo
-------------|-------------
-[American Water Works Association](https://www.awwa.org/) | ![AWWA Logo](img/awwa-logo-150-729.png)
-[Wisconsin Section of the American Water Works Association](http://www.wiawwa.org/) | ![Wisconsin Water Works Association Logo](img/wiawwa-logo-150.png)
-[The Water Council](http://thewatercouncil.com/) | ![Water Council Logo](img/water-council-logo-150-729.png)
-[Water Research Foundation](http://www.waterrf.org/) | ![Water Research Foundation Logo](img/WRF-logo-150-729.png)
-[West Shore Water Producers Association](http://www.westshorewater.org/) | <center>West Shore Water Producers Association</center>
+| Association                                                                         | Logo                                                               |
+|:------------------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| [American Water Works Association](https://www.awwa.org/)                           | ![AWWA Logo](img/awwa-logo-150-729.png)                            |
+| [Wisconsin Section of the American Water Works Association](http://www.wiawwa.org/) | ![Wisconsin Water Works Association Logo](img/wiawwa-logo-150.png) |
+| [The Water Council](http://thewatercouncil.com/)                                    | ![Water Council Logo](img/water-council-logo-150-729.png)          |
+| [Water Research Foundation](http://www.waterrf.org/)                                | ![Water Research Foundation Logo](img/WRF-logo-150-729.png)        |
+| [West Shore Water Producers Association](http://www.westshorewater.org/)            | <center>West Shore Water Producers Association</center>            |
 
 
 * * *
 
-[^1]: "Level found" is the average level  during the calendar year.
+[^1]: "Level found" is the average level during the calendar year.
 
 [^2]: Ten percent (10%) of the results are at or above the 90th percentile and ninety percent (90%) of the samples are below.
 
-[^3]: The data in this report shows results from 2015. Compliance monitoring is set by the WDNR; the next round of lead and copper testing is scheduled for the summer of 2018.
-
-[^4]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.
+[^3]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.
 
 ## Footnotes

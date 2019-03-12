@@ -1,9 +1,9 @@
 # repo_url: https://github.com/northshorewc/ccr2016
-copyright: North Shore Water Commission &copy; 2018 - <a href='http://www.northshorewater.org'><i>visit us at www.northshorewater.org</i></a>
+copyright: North Shore Water Commission &copy; 2019 - <a href='http://www.northshorewater.org'><i>visit us at www.northshorewater.org</i></a>
 remote_branch: gh-pages
-site_url: https://northshorewc.github.io/ccr2017
+site_url: https://northshorewc.github.io/ccr2018
 site_author: Eric Kiefer
-site_name: 2017 Annual Water Quality Report
+site_name: 2018 Annual Water Quality Report
 google_analytics: ['UA-93001027-2','auto']
 theme: readthedocs
 # theme_dir: readthedocs-theme
