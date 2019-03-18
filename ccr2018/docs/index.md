@@ -78,6 +78,7 @@ For additional information about water quality on the internet, please visit WDN
 | NSWC                              | North Shore Water Commission                      |                                                                                                                                                                                                                                                               |
 | Not Applicable                    | NA                                                | Not applicable.                                                                                                                                                                                                                                               |
 | Not Detected                      | ND                                                | Laboratory analysis indicates that the constituent is not present. In other words, the analyte was below the detection limit.                                                                                                                                 |
+| Secondary Maximum Contaminant Level | SMCL                                            | These levels are established as guidelines to assist public water systems in managing their drinking water for aesthetic considerations, such as taste, color, and odor. These contaminants are not considered to present a risk to human health at the SMCL.      |
 | Trihalomethanes                   | TTHM                                              | Chloroform, bromodichloromethane, dibromochloromethane, and bromoform. This is a class of disinfection by-products.                                                                                                                                           |
 | WDNR                              | Wisconsin Department of Natural Resources         |                                                                                                                                                                                                                                                               |
 
@@ -131,7 +132,7 @@ Going forward, Fox Point, Glendale, and Whitefish Bay will be regulated separate
 
 Please note that lead and copper do not have a maximum contaminant level. Instead they have an action level (AL). To determine compliance with the Lead and Copper Rule, all results collected from monitoring event are arranged lowest to highest and the 90th percentile value is determined. If the 90th percentile value is at or below the AL, no additional action is required[^2].
 
-Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. Of the 92 samples collected, 6 of them exceeded the action level.
+Please note that "level found" in this section is the 90th percentile value from the latest monitoring event. Of the 92 samples collected, 6 of the lead samples exceeded the action level of 15 ppb.
 
 | Substance |   MCLG   |    AL    |                      Level Found                       |                   Status                    | Sources of Contamination                                                                            |
 |:----------|:--------:|:--------:|:------------------------------------------------------:|:-------------------------------------------:|:----------------------------------------------------------------------------------------------------|
@@ -237,25 +238,25 @@ EPA periodically requires water systems to test for unregulated contaminants to 
 
 Please note that "level found" is the average level during the calendar year.
 
-| Substance                   | MCLG | MCL |       Level Found       |                   Status                    | Additional Information                                                                                                                                                                                                     |
-|:----------------------------|:----:|:---:|:-----------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Manganese </br> entry point |  NA  | NA  | 1.14 ug/L (0.48 - 2.00) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
+| Substance                   | [^4] SMCL    |       Level Found                |            Status                           | Additional Information                            |
+|:----------------------------|:------------:|:--------------------------------:|:-------------------------------------------:|:--------------------------------------------------|
+| Manganese                   | 50 ug/L      | 1.1 ug/L </br> (0.5 - 2.0)       | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
 
 For monitoring location SSS-03:
 
-| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5      | 60 ug/L | 60 ug/L | 10.21 ug/L (6.43 - 13.99)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br    |   NA    |   NA    |  7.47 ug/L  (7.23 - 7.71)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9      |   NA    |   NA    | 16.02 ug/L (13.23 - 18.81) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance |  MCLG   |   MCL   |        Level Found                       |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:----------------------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L | 10.2 ug/L </br> (6.4 - 14.0)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  7.5 ug/L </br>  (7.2 - 7.7)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 16.0 ug/L </br> (13.2 - 18.8)            | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 For monitoring location SSS-16:
 
-| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5      | 60 ug/L | 60 ug/L | 10.73 ug/L (7.53 - 13.92)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br    |   NA    |   NA    |  8.93 ug/L (7.23 - 10.62)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9      |   NA    |   NA    | 17.68 ug/L (14.03 - 21.32) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance |  MCLG   |   MCL   |        Level Found                       |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:----------------------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L | 10.7 ug/L </br> (7.5 - 13.9)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  8.9 ug/L </br> (7.2 - 10.6)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 17.7 ug/L </br> (14.0 - 21.3)            | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 The following is a complete list of compounds that were tested under this regulation:
 
@@ -321,25 +322,25 @@ EPA periodically requires water systems to test for unregulated contaminants to 
 
 Please note that "level found" is the average level during the calendar year.
 
-| Substance                   | MCLG | MCL |       Level Found       |                   Status                    | Additional Information                                                                                                                                                                                                     |
-|:----------------------------|:----:|:---:|:-----------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Manganese </br> entry point |  NA  | NA  | 1.24 ug/L (0.56 - 2.20) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
+| Substance                   | [^4] SMCL   |       Level Found          |            Status              | Additional Information                            |
+|:----------------------------|:-----------:|:--------------------------:|:------------------------------:|:--------------------------------------------------|
+| Manganese                   | 50 ug/L     | 1.2 ug/L </br> (0.6 - 2.2) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
 
 For monitoring location SSS-01:
 
-| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5      | 60 ug/L | 60 ug/L |  9.63 ug/L (5.72 - 13.54)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br    |   NA    |   NA    |  7.73 ug/L  (5.72 - 9.74)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9      |   NA    |   NA    | 16.68 ug/L (11.02 - 22.34) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance |  MCLG   |   MCL   |        Level Found            |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L |  9.6 ug/L </br> (5.7 - 13.5)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  7.7 ug/L </br>  (5.7 - 9.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 16.7 ug/L </br> (11.0 - 22.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 For monitoring location SSS-02:
 
-| Substance |  MCLG   |   MCL   |        Level Found         |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:--------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5      | 60 ug/L | 60 ug/L |  9.98 ug/L (6.49 - 13.46)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br    |   NA    |   NA    |  8.28 ug/L (6.79 - 9.76)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9      |   NA    |   NA    | 17.43 ug/L (12.59 - 22.26) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance |  MCLG   |   MCL   |        Level Found            |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L |  10.0 ug/L </br> (6.5 - 13.5) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  8.3 ug/L </br> (6.8 - 9.8)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 17.4 ug/L </br> (12.6 - 22.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 The following is a complete list of compounds that were tested under this regulation:
 
@@ -384,9 +385,12 @@ In order to ensure that tap water is safe to drink, EPA prescribes regulations t
 
 Drinking water, including bottled water, may reasonably be expected to contain at least small amounts of some contaminants. The presence of contaminants does not necessarily indicate that water poses a health risk. More information about contaminants and potential health effects can be obtained by calling the Environmental Protection Agency’s safe drinking water hotline at (800) 426-4791. Some people may be more vulnerable to contaminants in drinking water than the general population. Immuno-compromised persons such as persons with cancer undergoing chemotherapy, persons who have undergone organ transplants, people with HIV/AIDS or other immune systems disorders, some elderly, and infants can be particularly at risk from infections. These people should seek advice about drinking water from their health care providers. EPA/CDC guidelines on appropriate means to lessen the risk of infection by cryptosporidium and other microbial contaminants are available from the Environmental Protection Agency’s safe drinking water hotline.
 
-* * *
+### Lead Health Effects
 
-## Lead Information
+Infants and children who drink water containing lead in excess of the action level could experience delays in their physical or mental development. Children could show slight deficits in attention span and learning abilities. Adults who drink this water over many years could develop kidney problems or high blood pressue.
+
+
+### Additional Lead Information
 
 If present, elevated levels of lead can cause serious health problems, especially for pregnant women and young children. Lead in drinking water is primarily from materials and components associated with service lines and home plumbing. North Shore Water Commission and your water utility are responsible for providing high quality drinking water, but cannot control the variety of materials used in plumbing components. When your water has been sitting for several hours, you can minimize the potential for lead exposure by flushing your tap for 3 minutes before using water for drinking or cooking. If you are concerned about lead in your water, you may wish to have your water tested. Information on lead in drinking water, testing methods, and steps you can take to minimize exposure is available from the Safe Drinking Water Hotline or at [http://www.epa.gov/safewater/lead](http://www.epa.gov/safewater/lead).
 
@@ -418,27 +422,27 @@ Please note that officers from the member communities rotate positions annually 
 
 ### Fox Point
 
-| Office       | Office Holder | Email                                                                   | Phone          |
-|:-------------|:--------------|:------------------------------------------------------------------------|:---------------|
-| Member       | Scott Botcher | [sbotcher@villageoffoxpoint.com](mailto:sbotcher@villageoffoxpoint.com) | (414) 351-8900 |
-| Alternate    | Karen Shapiro |                                                                         | (414) 351-8900 |
-| Fiscal Agent | Kelly Meyer   | [KMeyer@villageoffoxpoint.com](mailto:KMeyer@villageoffoxpoint.com)     | (414) 351-8900 |
+Office | Office Holder | Email | Phone
+-------|---------------|-------|------
+Member | Scott Botcher | [sbotcher@villageoffoxpoint.com](mailto:sbotcher@villageoffoxpoint.com) | (414) 351-8900
+Alternate | Karen Shapiro | [shapirokaren@gmail.com](mailto:shapirokaren@gmail.com) | (414) 351-8900
+Fiscal Agent | Kelly Meyer | [KMeyer@villageoffoxpoint.com](mailto:KMeyer@villageoffoxpoint.com) | (414) 351-8900
 
 ### Glendale
 
-| Office    | Office Holder   | Email                                                           | Phone          |
-|:----------|:----------------|:----------------------------------------------------------------|:---------------|
-| Chair     | Rachel Safstrom | [R.Safstrom@glendale-wi.gov](mailto:R.Safstrom@glendale-wi.gov) | (414) 228-1703 |
-| Alternate | Charlie Imig    | [c.imig@glendale-wi.gov](mailto:c.imig@glendale-wi.gov)         | (414) 228-1710 |
+Office | Office Holder | Email | Phone
+-------|---------------|-------|------
+Chair | Rachel Safstrom | [R.Safstrom@glendale-wi.gov](mailto:R.Safstrom@glendale-wi.gov) | (414) 228-1705
+Alternate | Charlie Imig | [c.imig@glendale-wi.gov](mailto:c.imig@glendale-wi.gov) | (414) 228-1710
 
 <!-- Fiscal Agent | Linda DiFrances | [L.DiFrances@glendale-wi.gov](mailto:L.DiFrances@glendale-wi.gov) | (414) 228-1701 -->
 
 ### Whitefish Bay
 
-| Office    | Office Holder | Email                                                         | Phone          |
-|:----------|:--------------|:--------------------------------------------------------------|:---------------|
-| Secretary | John Edlebeck | [j.edlebeck@wfbvillage.org](mailto:j.edlebeck@wfbvillage.org) | (414) 962-6690 |
-| Alternate | Paul Boening  | [p.boening@wfbvillage.org](mailto:p.boening@wfbvillage.org)   | (414) 962-6690 |
+Office | Office Holder | Email | Phone
+-------|---------------|-------|------
+Secretary | John Edlebeck | [j.edlebeck@wfbvillage.org](mailto:j.edlebeck@wfbvillage.org) | (414) 962-6690
+Alternate | Paul Boening | [p.boening@wfbvillage.org](mailto:p.boening@wfbvillage.org) | (414) 962-6690
 
 ## Staff
 
@@ -466,5 +470,7 @@ The NSWC is a proud member of the following associations:
 [^2]: Ten percent (10%) of the results are at or above the 90th percentile and ninety percent (90%) of the samples are below.
 
 [^3]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.
+
+[^4]: USEPA set a Secondary Maximum Contaminant Level (SMCL) for manganese. The SMCL is based on staining and taste considerations. There currently isn't an MCL or MCLG set for this contaminant at this time.
 
 ## Footnotes
