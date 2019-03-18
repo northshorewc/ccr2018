@@ -1,9 +1,9 @@
 ---
 Author: Eric Kiefer
-Date: 3/12/2019
+Date: 3/18/2019
 ---
 
-<!-- <a href="http://www.northshorewater.org/CCR2017.pdf" download>Click here to download PDF version</a> -->
+<a href="http://www.northshorewater.org/CCR2018.pdf" download>Click here to download PDF version</a>
 
 <!-- * * * -->
 
@@ -61,26 +61,26 @@ For additional information about water quality on the internet, please visit WDN
 
 ## Abbreviations and Definitions
 
-| Term                              | Abbreviation                                      | Definition                                                                                                                                                                                                                                                    |
-|:----------------------------------|:--------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Action Level                      | AL                                                | The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.                                                                                                                             |
-| Disinfection By-products          | DBPs                                              | These are compounds that are formed when using a disinfectant.                                                                                                                                                                                                |
-| EPA                               | The United States Environmental Protection Agency |                                                                                                                                                                                                                                                               |
-| Haloacetic Acids Group HAA5       | HAA5                                              | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, and dibromoacetic acid. This is a class of disinfection by-products.                                                                                                  |
-| Haloacetic Acids Group HAA6Br     | HAA6Br                                            | Monobromoacetic acid, dibromoacetic acid, bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, and tribromoacetic acid. This is a class of disinfection by-products.                                                                   |
-| Haloacetic Acids Group HAA9       | HAA9                                              | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, dibromoacetic acid, bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, and tribromoacetic acid. This is a class of disinfection by-products. |
-| Locational Running Annual Average | LRAA                                              | The average of four quarterly samples collected in one 12-month period at a specific sampling site.                                                                                                                                                           |
-| Maximum Contaminant Level         | MCL                                               | This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.                                                                                   |
-| Maximum Contaminant Level Goal    | MCLG                                              | This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.                                                                                                            |
-| Milligrams Per Liter              | mg/L                                              | One milligram per liter corresponds to one minute in two years or a single penny in $10,000. Milligrams per liter is equivalent to the term parts per million (ppm).                                                                                          |
-| Micrograms Per Liter              | ug/l                                              | One part per billion corresponds to one minute in 2,000 years, or a single penny in $10,000,000. Micrograms per liter is equivalent to the term parts per billion (ppb).                                                                                      |
-| Nephelometric Turbidity Unit      | NTU                                               | Nephelometric turbidity unit is a measure of the clarity of water. Turbidity in excess of 5 NTU is just noticeable to the average person.                                                                                                                     |
-| NSWC                              | North Shore Water Commission                      |                                                                                                                                                                                                                                                               |
-| Not Applicable                    | NA                                                | Not applicable.                                                                                                                                                                                                                                               |
-| Not Detected                      | ND                                                | Laboratory analysis indicates that the constituent is not present. In other words, the analyte was below the detection limit.                                                                                                                                 |
-| Secondary Maximum Contaminant Level | SMCL                                            | These levels are established as guidelines to assist public water systems in managing their drinking water for aesthetic considerations, such as taste, color, and odor. These contaminants are not considered to present a risk to human health at the SMCL.      |
-| Trihalomethanes                   | TTHM                                              | Chloroform, bromodichloromethane, dibromochloromethane, and bromoform. This is a class of disinfection by-products.                                                                                                                                           |
-| WDNR                              | Wisconsin Department of Natural Resources         |                                                                                                                                                                                                                                                               |
+| Term                                | Abbreviation                                      | Definition                                                                                                                                                                                                                                                    |
+|:------------------------------------|:--------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Action Level                        | AL                                                | The concentration of a contaminant which, if exceeded, triggers treatment or other requirements which a water system must follow.                                                                                                                             |
+| Disinfection By-products            | DBPs                                              | These are compounds that are formed when using a disinfectant.                                                                                                                                                                                                |
+| EPA                                 | The United States Environmental Protection Agency |                                                                                                                                                                                                                                                               |
+| Haloacetic Acids Group HAA5         | HAA5                                              | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, and dibromoacetic acid. This is a class of disinfection by-products.                                                                                                  |
+| Haloacetic Acids Group HAA6Br       | HAA6Br                                            | Monobromoacetic acid, dibromoacetic acid, bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, and tribromoacetic acid. This is a class of disinfection by-products.                                                                   |
+| Haloacetic Acids Group HAA9         | HAA9                                              | Monochloroacetic acid, dichloroacetic acid, trichloroacetic acid, monobromoacetic acid, dibromoacetic acid, bromochloroacetic acid, bromodichloroacetic acid, chlorodibromoacetic acid, and tribromoacetic acid. This is a class of disinfection by-products. |
+| Locational Running Annual Average   | LRAA                                              | The average of four quarterly samples collected in one 12-month period at a specific sampling site.                                                                                                                                                           |
+| Maximum Contaminant Level           | MCL                                               | This is the highest level of a contaminant that is allowed in drinking water. MCLs are set as close to the MCLGs as feasible using the best available treatment technology.                                                                                   |
+| Maximum Contaminant Level Goal      | MCLG                                              | This is the level of a contaminant in drinking water below which there is no known or expected risk to health. MCLGs allow for a margin of safety.                                                                                                            |
+| Milligrams Per Liter                | mg/L                                              | One milligram per liter corresponds to one minute in two years or a single penny in $10,000. Milligrams per liter is equivalent to the term parts per million (ppm).                                                                                          |
+| Micrograms Per Liter                | ug/l                                              | One part per billion corresponds to one minute in 2,000 years, or a single penny in $10,000,000. Micrograms per liter is equivalent to the term parts per billion (ppb).                                                                                      |
+| Nephelometric Turbidity Unit        | NTU                                               | Nephelometric turbidity unit is a measure of the clarity of water. Turbidity in excess of 5 NTU is just noticeable to the average person.                                                                                                                     |
+| NSWC                                | North Shore Water Commission                      |                                                                                                                                                                                                                                                               |
+| Not Applicable                      | NA                                                | Not applicable.                                                                                                                                                                                                                                               |
+| Not Detected                        | ND                                                | Laboratory analysis indicates that the constituent is not present. In other words, the analyte was below the detection limit.                                                                                                                                 |
+| Secondary Maximum Contaminant Level | SMCL                                              | These levels are established as guidelines to assist public water systems in managing their drinking water for aesthetic considerations, such as taste, color, and odor. These contaminants are not considered to present a risk to human health at the SMCL. |
+| Trihalomethanes                     | TTHM                                              | Chloroform, bromodichloromethane, dibromochloromethane, and bromoform. This is a class of disinfection by-products.                                                                                                                                           |
+| WDNR                                | Wisconsin Department of Natural Resources         |                                                                                                                                                                                                                                                               |
 
 * * *
 
@@ -238,25 +238,25 @@ EPA periodically requires water systems to test for unregulated contaminants to 
 
 Please note that "level found" is the average level during the calendar year.
 
-| Substance                   | [^4] SMCL    |       Level Found                |            Status                           | Additional Information                            |
-|:----------------------------|:------------:|:--------------------------------:|:-------------------------------------------:|:--------------------------------------------------|
-| Manganese                   | 50 ug/L      | 1.1 ug/L </br> (0.5 - 2.0)       | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
+| Substance | [^4] SMCL |        Level Found         |                   Status                    | Additional Information                                                                                                                                                                                                     |
+|:----------|:---------:|:--------------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manganese |  50 ug/L  | 1.1 ug/L </br> (0.5 - 2.0) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
 
 For monitoring location SSS-03:
 
-| Substance |  MCLG   |   MCL   |        Level Found                       |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:----------------------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5      | 60 ug/L | 60 ug/L | 10.2 ug/L </br> (6.4 - 14.0)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br    |   NA    |   NA    |  7.5 ug/L </br>  (7.2 - 7.7)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9      |   NA    |   NA    | 16.0 ug/L </br> (13.2 - 18.8)            | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L | 10.2 ug/L </br> (6.4 - 14.0)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  7.5 ug/L </br>  (7.2 - 7.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 16.0 ug/L </br> (13.2 - 18.8) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 For monitoring location SSS-16:
 
-| Substance |  MCLG   |   MCL   |        Level Found                       |                   Status                    | Additional Information                     |
-|:----------|:-------:|:-------:|:----------------------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5      | 60 ug/L | 60 ug/L | 10.7 ug/L </br> (7.5 - 13.9)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA6Br    |   NA    |   NA    |  8.9 ug/L </br> (7.2 - 10.6)             | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
-| HAA9      |   NA    |   NA    | 17.7 ug/L </br> (14.0 - 21.3)            | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
+|:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
+| HAA5      | 60 ug/L | 60 ug/L | 10.7 ug/L </br> (7.5 - 13.9)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA6Br    |   NA    |   NA    |  8.9 ug/L </br> (7.2 - 10.6)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA9      |   NA    |   NA    | 17.7 ug/L </br> (14.0 - 21.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
 The following is a complete list of compounds that were tested under this regulation:
 
@@ -322,13 +322,13 @@ EPA periodically requires water systems to test for unregulated contaminants to 
 
 Please note that "level found" is the average level during the calendar year.
 
-| Substance                   | [^4] SMCL   |       Level Found          |            Status              | Additional Information                            |
-|:----------------------------|:-----------:|:--------------------------:|:------------------------------:|:--------------------------------------------------|
-| Manganese                   | 50 ug/L     | 1.2 ug/L </br> (0.6 - 2.2) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
+| Substance | [^4] SMCL |        Level Found         |                   Status                    | Additional Information                                                                                                                                                                                                     |
+|:----------|:---------:|:--------------------------:|:-------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Manganese |  50 ug/L  | 1.2 ug/L </br> (0.6 - 2.2) | <span style="font-size:150%">&#9786;</span> | Naturally-occurring element; commercially available in combination with other elements and minerals; a byproduct of zinc ore processing; used in infrared optics, fiber-optic systems, electronics and solar applications. |
 
 For monitoring location SSS-01:
 
-| Substance |  MCLG   |   MCL   |        Level Found            |                   Status                    | Additional Information                     |
+| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
 |:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
 | HAA5      | 60 ug/L | 60 ug/L |  9.6 ug/L </br> (5.7 - 13.5)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 | HAA6Br    |   NA    |   NA    |  7.7 ug/L </br>  (5.7 - 9.7)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
@@ -336,9 +336,9 @@ For monitoring location SSS-01:
 
 For monitoring location SSS-02:
 
-| Substance |  MCLG   |   MCL   |        Level Found            |                   Status                    | Additional Information                     |
+| Substance |  MCLG   |   MCL   |          Level Found          |                   Status                    | Additional Information                     |
 |:----------|:-------:|:-------:|:-----------------------------:|:-------------------------------------------:|:-------------------------------------------|
-| HAA5      | 60 ug/L | 60 ug/L |  10.0 ug/L </br> (6.5 - 13.5) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
+| HAA5      | 60 ug/L | 60 ug/L | 10.0 ug/L </br> (6.5 - 13.5)  | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 | HAA6Br    |   NA    |   NA    |  8.3 ug/L </br> (6.8 - 9.8)   | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 | HAA9      |   NA    |   NA    | 17.4 ug/L </br> (12.6 - 22.3) | <span style="font-size:150%">&#9786;</span> | By-product of drinking water chlorination. |
 
@@ -422,27 +422,27 @@ Please note that officers from the member communities rotate positions annually 
 
 ### Fox Point
 
-Office | Office Holder | Email | Phone
--------|---------------|-------|------
-Member | Scott Botcher | [sbotcher@villageoffoxpoint.com](mailto:sbotcher@villageoffoxpoint.com) | (414) 351-8900
-Alternate | Karen Shapiro | [shapirokaren@gmail.com](mailto:shapirokaren@gmail.com) | (414) 351-8900
-Fiscal Agent | Kelly Meyer | [KMeyer@villageoffoxpoint.com](mailto:KMeyer@villageoffoxpoint.com) | (414) 351-8900
+| Office       | Office Holder | Email                                                                   | Phone          |
+|:-------------|:--------------|:------------------------------------------------------------------------|:---------------|
+| Member       | Scott Botcher | [sbotcher@villageoffoxpoint.com](mailto:sbotcher@villageoffoxpoint.com) | (414) 351-8900 |
+| Alternate    | Karen Shapiro | [shapirokaren@gmail.com](mailto:shapirokaren@gmail.com)                 | (414) 351-8900 |
+| Fiscal Agent | Kelly Meyer   | [KMeyer@villageoffoxpoint.com](mailto:KMeyer@villageoffoxpoint.com)     | (414) 351-8900 |
 
 ### Glendale
 
-Office | Office Holder | Email | Phone
--------|---------------|-------|------
-Chair | Rachel Safstrom | [R.Safstrom@glendale-wi.gov](mailto:R.Safstrom@glendale-wi.gov) | (414) 228-1705
-Alternate | Charlie Imig | [c.imig@glendale-wi.gov](mailto:c.imig@glendale-wi.gov) | (414) 228-1710
+| Office    | Office Holder   | Email                                                           | Phone          |
+|:----------|:----------------|:----------------------------------------------------------------|:---------------|
+| Chair     | Rachel Safstrom | [R.Safstrom@glendale-wi.gov](mailto:R.Safstrom@glendale-wi.gov) | (414) 228-1705 |
+| Alternate | Charlie Imig    | [c.imig@glendale-wi.gov](mailto:c.imig@glendale-wi.gov)         | (414) 228-1710 |
 
 <!-- Fiscal Agent | Linda DiFrances | [L.DiFrances@glendale-wi.gov](mailto:L.DiFrances@glendale-wi.gov) | (414) 228-1701 -->
 
 ### Whitefish Bay
 
-Office | Office Holder | Email | Phone
--------|---------------|-------|------
-Secretary | John Edlebeck | [j.edlebeck@wfbvillage.org](mailto:j.edlebeck@wfbvillage.org) | (414) 962-6690
-Alternate | Paul Boening | [p.boening@wfbvillage.org](mailto:p.boening@wfbvillage.org) | (414) 962-6690
+| Office    | Office Holder | Email                                                         | Phone          |
+|:----------|:--------------|:--------------------------------------------------------------|:---------------|
+| Secretary | John Edlebeck | [j.edlebeck@wfbvillage.org](mailto:j.edlebeck@wfbvillage.org) | (414) 962-6690 |
+| Alternate | Paul Boening  | [p.boening@wfbvillage.org](mailto:p.boening@wfbvillage.org)   | (414) 962-6690 |
 
 ## Staff
 
