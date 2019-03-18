@@ -5,7 +5,7 @@ Date: 3/18/2019
 
 <a href="http://www.northshorewater.org/CCR2018.pdf" download>Click here to download PDF version</a>
 
-<!-- * * * -->
+* * *
 
 ![nswc-logo](img/nswc-logo-long.png)
 
