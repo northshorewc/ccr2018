@@ -471,6 +471,6 @@ The NSWC is a proud member of the following associations:
 
 [^3]: The sum of these compounds is equal to TTHM. Individually, these compounds are not regulated.
 
-[^4]: USEPA set a Secondary Maximum Contaminant Level (SMCL) for manganese. The SMCL is based on staining and taste considerations. There currently isn't an MCL or MCLG set for this contaminant at this time.
+[^4]: USEPA set a Secondary Maximum Contaminant Level (SMCL) for manganese. The SMCL is based on staining and taste considerations. There currently isn't an MCL or MCLG set for this contaminant.
 
 ## Footnotes
